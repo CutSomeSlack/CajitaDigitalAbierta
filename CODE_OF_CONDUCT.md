@@ -71,11 +71,7 @@ El presente Código de conducta y los procedimientos que del mismo se desprenden
 
 ## 9. Información de contacto
 
-SANTALAB - Laboratorio de innovación ciudadana
-santalab [arroba] santafe [punto] gob [punto] ar
-
-Martín Müller (@CutSomeSlack) 
-fmartinmuller [arroba] gmail [punto] com
+mailto:user@provider.domain
 
 ## 10. Licencia y atribución
 
