@@ -6,16 +6,19 @@ Nuestro proyecto es una obra derivada de Piratebox, un dispositivo concebido par
 
 ## Estamos prototipando
 
-Nuestra primera experiencia se está llevando a cabo con Raspbian en una Raspberry Pi 3 B+.
-Queremos cargar la primera CDA con obras de la escuela de arte Juan Mantovani de la ciudad de Santa Fe.
-Nuestro objetivo es probar cuántos usuarios pueden acceder simultáneamente a la CDA con éste hardware.
+Nuestra primera experiencia se está llevando a cabo con [Raspbian](https://www.raspbian.org/) en una [Raspberry Pi 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/).
+Queremos 1) cargar la primera CDA con obras digitalizadas de alumnos, profesores y allegados de la escuela de arte [Juan Mantovani](http://www.lamantovani.edu.ar/) de la ciudad de Santa Fe mediante un formulario; 2) curar el contenido; 3) probar la interacción entre el usuario y la CDA.
+Con el prototipo vamos a probar:
+
+* cuántos usuarios pueden acceder simultáneamente a la CDA con éste hardware,
+* recepción del formulario de participación.
 
 Consulte nuestra [hoja de ruta](https://github.com/CutSomeSlack/CajitaDigitalAbierta/projects/1) para más información.
 
 ## PorHacer
 
 * Probar la CDA en routers compatibles con OpenWRT.
-
+* Comenzar la primera etapa de prototipado (fecha tentativa: finales de septiembre/2018)
 
 # Licencias
 
@@ -28,5 +31,5 @@ Las obras utilizadas en la maquetación y prototipado respetan alguna de las lic
 Si te interesa esta tecnología, te invitamos a acercarte y replicar el proyecto.
 Si te interesa la Cultura Libre, ayudanos a correr la voz y a seguir poniendo energía.
 
-Escribinos a mailto:cajitadigitalabierta@tuta.io
-Tutanota, nuestro correo, también es de [código abierto](github.com/tutao/tutanota)
+Escribinos a [cajitadigitalabierta@tuta.io](mailto:cajitadigitalabierta@tuta.io)
+Tutanota, nuestro correo, también es de [código abierto](github.com/tutao/tutanota)!
