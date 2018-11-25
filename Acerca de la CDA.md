@@ -18,7 +18,8 @@ Consulte nuestra [hoja de ruta](https://github.com/CutSomeSlack/CajitaDigitalAbi
 ## PorHacer
 
 * Probar la CDA en routers compatibles con OpenWRT.
-* Comenzar la primera etapa de prototipado (fecha tentativa: finales de septiembre/2018)
+* Comenzar la primera etapa de prototipado (fecha tentativa: finales de septiembre/2018) ✓
+* Documentación del portal cautivo de bienvenida.
 
 # Licencias
 
@@ -31,5 +32,4 @@ Las obras utilizadas en la maquetación y prototipado respetan alguna de las lic
 Si te interesa esta tecnología, te invitamos a acercarte y replicar el proyecto.
 Si te interesa la Cultura Libre, ayudanos a correr la voz y a seguir poniendo energía.
 
-Escribinos a [cajitadigitalabierta@tuta.io](mailto:cajitadigitalabierta@tuta.io)
-Tutanota, nuestro correo, también es de [código abierto](github.com/tutao/tutanota)!
+Escribinos a [cajitadigitalabierta@gmail.com](mailto:cajitadigitalabierta@gmail.com)
