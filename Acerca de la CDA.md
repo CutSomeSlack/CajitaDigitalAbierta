@@ -25,7 +25,7 @@ Consulte nuestra [hoja de ruta](https://github.com/CutSomeSlack/CajitaDigitalAbi
 
 Cajita Digital Abierta es una idea de Martín Müller derivada de [PirateBox](https://piratebox.cc), combinada con el proyecto de curaduría y mecenazgo de obras digitales de Rocío ardozo, y ambas utilizan licencia [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 El software utilizado en la maquetación y prototipado respeta las licencias [GNU GPLv2](https://www.gnu.org/licenses/gpl-2.0.html), y [GNU GPLv3](http://www.gnu.org/licenses/gpl.html).
-Las obras utilizadas en la maquetación y prototipado respetan alguna de las licencias [Creative Commons](https://creativecommons.org/licenses/). Puede consultar el documento sobre licencias libres CC-BY de Rocío para más información.
+Las obras utilizadas en la maquetación y prototipado respetan alguna de las licencias [Creative Commons](https://creativecommons.org/licenses/). Puede consultar el documento sobre [cómo usar una licencia libre](https://github.com/CutSomeSlack/CajitaDigitalAbierta/blob/master/CC-howto.pdf) (CC-BY Rocío) si desea incorporar su obra al proyecto.
 
 # Sumate!
 
